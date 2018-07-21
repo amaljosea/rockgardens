@@ -1951,15 +1951,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .p1-gradient-bg, .primary-btn, .primary-btn2:hover, .single-feature:hover, .video-area .overlay-bg, .single-footer-widget .click-btn, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background-image: -webkit-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background-image: -ms-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
+  background-image: -moz-linear-gradient(0deg, #0e552b 0%, #009a53 100%);
+  background-image: -webkit-linear-gradient(0deg, #0e552b 0%, #009a53 100%);
+  background-image: -ms-linear-gradient(0deg, #0e552b 0%, #009a53 100%);
 }
 
 .p1-gradient-color, .counter-left h2, .footer-social a:hover i, .single-footer-widget .bb-btn {
-  background: -moz-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background: -webkit-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
-  background: -ms-linear-gradient(0deg, #b21aff 0%, #732bde 100%);
+  background: -moz-linear-gradient(0deg, #0e552b 0%, #009a53 100%);
+  background: -webkit-linear-gradient(0deg, #0e552b 0%, #009a53 100%);
+  background: -ms-linear-gradient(0deg, #0e552b 0%, #009a53 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -2688,7 +2688,7 @@ h6 {
 }
 
 .footer-text a, .footer-text i {
-  color: #b01afe;
+  color: #fcfd41;
 }
 
 .whole-wrap {
